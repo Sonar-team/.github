@@ -1,14 +1,10 @@
 ![Sonar Team Banner](https://github.com/Sonar-team/.github/blob/main/profile/Frame%201(2).png)
 
-## Hi there 👋
+Sonar est un outil open source avancé pour l'analyse réseau. Développé en Rust et utilisant le framework Tauri, Sonar offre une performance exceptionnelle et une interface utilisateur intuitive. Il est conçu pour fournir une visualisation claire des métriques réseau et permettre un rapport détaillé des relevés.
 
-<!--
+## Comment contribuer
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Sonar est un projet open source et nous encourageons la contribution de la communauté. Voici comment vous pouvez contribuer :
+- **Signaler des bugs**
+- **Proposer des améliorations**
+- **Contribuer au code**
