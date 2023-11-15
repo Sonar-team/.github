@@ -1,3 +1,5 @@
+![Sonar Team Banner](https://github.com/Sonar-team/.github/blob/main/profile/Frame%201(2).png)
+
 ## Hi there 👋
 
 <!--
