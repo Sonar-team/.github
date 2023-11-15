@@ -12,6 +12,7 @@ Sonar est un projet open source et nous encourageons la contribution de la commu
 ## Technologies Clés
 
 - [Rust](https://www.rust-lang.org/fr) : Un langage de programmation qui offre performance et fiabilité.
-- [Tauri](https://tauri.app/) : Un framework robuste pour le développement d'applications de bureau en utilisant des technologies web.
+- ![Logo Tauri](https://github.com/Sonar-team/.github/blob/main/profile/image%2010.png)
+ [Tauri](https://tauri.app/) : Un framework robuste pour le développement d'applications de bureau en utilisant des technologies web.
 - [Vue.js](https://vuejs.org/) : Un framework JavaScript progressif pour construire des interfaces utilisateur.
 
