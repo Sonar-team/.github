@@ -1,6 +1,6 @@
 ![Sonar Team Banner](https://github.com/Sonar-team/.github/blob/main/profile/Frame%201(3).png)
 
-Sonar est un outil open source avancé pour l'analyse réseau. Développé en Rust et utilisant le framework Tauri, Sonar offre une performance exceptionnelle et une interface utilisateur intuitive. Il est conçu pour fournir une visualisation claire des métriques réseau et permettre un rapport détaillé des relevés.
+Sonar est un packet sniffer développé Tauri! open source avancé pour l'analyse réseau. Développé en Rust et utilisant le framework Tauri, Sonar offre une performance exceptionnelle et une interface utilisateur intuitive. Il est conçu pour fournir une visualisation claire des métriques réseau et permettre un rapport détaillé des relevés.
 
 ## Comment contribuer
 
