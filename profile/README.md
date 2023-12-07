@@ -1,7 +1,7 @@
 ![Sonar Team Banner](https://github.com/Sonar-team/.github/blob/main/profile/Frame%201(3).png)
 
-# Sonar - Surveillance Optimisée des Nœuds pour Analyse Réseau Sécurisé
-Sonar est une application de bureau open source, conçue pour une surveillance et une analyse approfondies des réseaux.. Développé en Rust et utilisant le framework Tauri, Sonar offre une performance exceptionnelle et une interface utilisateur intuitive. Il est conçu pour fournir une visualisation claire des métriques réseau et permettre un rapport détaillé des relevés de matrices de flux.
+# Sonar - Surveillance Optimisée des Nœuds pour Analyse Réseau
+Sonar est une application de bureau open source, développée pour offrir une surveillance et une analyse de réseau de pointe. Conçue avec le langage de programmation Rust et intégrant le framework Tauri, Sonar se distingue par sa haute performance et son interface utilisateur intuitive. L'application est spécialisée dans la visualisation des métriques réseau et la production de rapports détaillés sur les matrices de flux.
 
 ## Fonctionnalités
 - **Haute Performance** : Grâce à l'utilisation de Rust, Sonar assure une capture et une analyse des paquets réseau à haute vitesse.
